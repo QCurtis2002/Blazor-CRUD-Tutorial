@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDB.Server", "SuperHeroDB\Server\SuperHeroDB.Server.csproj", "{91664B2F-4DCB-47A3-8C9C-5C1CC3E69D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDB.Client", "SuperHeroDB\Client\SuperHeroDB.Client.csproj", "{00ADFE8F-CF4B-4C1A-B23B-BC9A51C87A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroDB.Shared", "SuperHeroDB\Shared\SuperHeroDB.Shared.csproj", "{DB7E991A-395E-4E3B-9785-6137A255EFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91664B2F-4DCB-47A3-8C9C-5C1CC3E69D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91664B2F-4DCB-47A3-8C9C-5C1CC3E69D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91664B2F-4DCB-47A3-8C9C-5C1CC3E69D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91664B2F-4DCB-47A3-8C9C-5C1CC3E69D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00ADFE8F-CF4B-4C1A-B23B-BC9A51C87A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ADFE8F-CF4B-4C1A-B23B-BC9A51C87A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ADFE8F-CF4B-4C1A-B23B-BC9A51C87A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ADFE8F-CF4B-4C1A-B23B-BC9A51C87A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7E991A-395E-4E3B-9785-6137A255EFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7E991A-395E-4E3B-9785-6137A255EFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7E991A-395E-4E3B-9785-6137A255EFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7E991A-395E-4E3B-9785-6137A255EFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E01B595B-0B5F-4C82-A9F7-039581A75432}
+	EndGlobalSection
+EndGlobal
